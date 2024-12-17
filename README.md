@@ -54,7 +54,7 @@ Welcome to the **CPU Scheduling Algorithm Analyzer**! 🚀 This interactive Pyth
    git clone https://github.com/yourusername/CPU-Scheduling-Analyzer.git
 
 2. Install Python (if not installed):
-   - Download and install Python from python.org.
+   - Download and install Python from https://www.python.org/downloads/.
      
 3. Install Required Libraries: Use pip to install Tkinter (usually pre-installed with Python) and any additional dependencies (like Pandas, if needed):
    
@@ -68,22 +68,22 @@ Welcome to the **CPU Scheduling Algorithm Analyzer**! 🚀 This interactive Pyth
 
 ## Usage
 
-1. **Select Scheduling Algorithm** - Choose the CPU scheduling algorithm you wish to simulate (FCFS, SJF, Priority, Round Robin, SRTF).
+- **Select Scheduling Algorithm** - Choose the CPU scheduling algorithm you wish to simulate (FCFS, SJF, Priority, Round Robin, SRTF).
 
-2. **Enter Process Data** - Input the number of processes and their respective arrival time, burst time, and priority (if applicable). If using Round Robin, enter the time quantum as well.
+- **Enter Process Data** - Input the number of processes and their respective arrival time, burst time, and priority (if applicable). If using Round Robin, enter the time quantum as well.
 
-3. **Run Simulation** - Click the Calculate button to simulate the chosen algorithm. The output will display the process table with computation results (CT, TAT, WT).
+- **Run Simulation** - Click the Calculate button to simulate the chosen algorithm. The output will display the process table with computation results (CT, TAT, WT).
 
-4. **Clear Data** - If you wish to reset the inputs and try with different values, click the Clear button.
+- **Clear Data** - If you wish to reset the inputs and try with different values, click the Clear button.
   
 
-## Working of the Application (Socket Programming)
+## Working of the Application 
 
-1. **Input Validation** - The application validates user input for number of processes, arrival time, burst time, and priority. It ensures that all fields are filled with valid data before running the simulation.
+- **Input Validation** - The application validates user input for number of processes, arrival time, burst time, and priority. It ensures that all fields are filled with valid data before running the simulation.
 
-2. **Scheduling Algorithms** - The app calculates the results based on the selected scheduling algorithm and updates the output table with the computed values for Completion Time, Turnaround Time, and Waiting Time.
+- **Scheduling Algorithms** - The app calculates the results based on the selected scheduling algorithm and updates the output table with the computed values for Completion Time, Turnaround Time, and Waiting Time.
 
-3. **Time Calculation**
+- **Time Calculation**
    - **For Non-preemptive algorithms** like FCFS, SJF, and Priority, the process runs to completion once started.
    - **For Preemptive algorithms** like Round Robin and SRTF, processes may be interrupted based on conditions like time quantum or remaining burst time.
 
