@@ -8,6 +8,7 @@ A Python-based CPU Scheduling Algorithm Analyzer with a GUI using Tkinter. It si
 - [Installation](#installation)
 - [Usage](#usage)
 - [Working of the Application](#workingoftheapplication)
+- [Output of App](#output)
 - [Error Handling](#errorhandling)
 - [Contact](#contact)
 
@@ -86,6 +87,10 @@ Welcome to the **CPU Scheduling Algorithm Analyzer**! 🚀 This interactive Pyth
 - **Time Calculation**
    - **For Non-preemptive algorithms** like FCFS, SJF, and Priority, the process runs to completion once started.
    - **For Preemptive algorithms** like Round Robin and SRTF, processes may be interrupted based on conditions like time quantum or remaining burst time.
+ 
+## Output of App
+
+<img width="1235" alt="Screenshot 2024-12-17 at 6 58 51 PM" src="https://github.com/user-attachments/assets/67bc7f1d-b4e8-42b2-b4ac-e029a15bdcb1" />
 
 
 ## Error Handling
