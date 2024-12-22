@@ -52,7 +52,7 @@ Welcome to the **CPU Scheduling Algorithm Analyzer**! 🚀 This interactive Pyth
 1. Clone this repository to your Raspberry Pi:
    
    ```bash
-   git clone https://github.com/yourusername/CPU-Scheduling-Analyzer.git
+   git clone https://github.com/Dhrishita/CPU-Scheduling-Analyzer.git
 
 2. Install Python (if not installed):
    - Download and install Python from https://www.python.org/downloads/.
