@@ -4,12 +4,12 @@ A Python-based CPU Scheduling Algorithm Analyzer with a GUI using Tkinter. It si
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologiesused)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Working of the Application](#workingoftheapplication)
+- [Working of the Application](#working-of-the-application)
 - [Output of App](#output)
-- [Error Handling](#errorhandling)
+- [Error Handling](#error-handling)
 - [Contact](#contact)
 
 ## Introduction
